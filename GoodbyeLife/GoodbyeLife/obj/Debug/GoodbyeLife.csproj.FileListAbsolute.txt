@@ -1,0 +1,13 @@
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\bin\Debug\GoodbyeLife.exe.config
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\bin\Debug\GoodbyeLife.exe
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\bin\Debug\GoodbyeLife.pdb
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\obj\Debug\GoodbyeLife.csproj.AssemblyReference.cache
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\obj\Debug\GoodbyeLife.csproj.SuggestedBindingRedirects.cache
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\obj\Debug\GoodbyeLife.csproj.CoreCompileInputs.cache
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\obj\Debug\GoodbyeLife.exe
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\obj\Debug\GoodbyeLife.pdb
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\bin\Debug\WebDriver.dll
+D:\Git\nUnitTests\GoodbyeLife\GoodbyeLife\obj\Debug\GoodbyeLife.csproj.CopyComplete
